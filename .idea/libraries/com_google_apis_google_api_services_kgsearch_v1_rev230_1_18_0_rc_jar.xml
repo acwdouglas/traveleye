@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.google.apis:google-api-services-kgsearch:v1-rev230-1.18.0-rc@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-kgsearch/v1-rev230-1.18.0-rc/e5ec3c11a39a5b546861f082d5779729ba431a2d/google-api-services-kgsearch-v1-rev230-1.18.0-rc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-kgsearch/v1-rev230-1.18.0-rc/997a90c9b8f5317ffc64b0cbafcfc6a7e0f79d93/google-api-services-kgsearch-v1-rev230-1.18.0-rc-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

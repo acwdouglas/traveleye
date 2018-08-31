@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/infoTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed"
+        android:lineSpacingExtra="8sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="18sp"
+        android:typeface="serif" />
+
+    <RatingBar
+        android:id="@+id/infoRating"
+        style="@style/Widget.AppCompat.RatingBar.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:rating="5" />
+
+    <TextView
+        android:id="@+id/infoAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed"
+        android:lineSpacingExtra="8sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/infoDistance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed"
+        android:lineSpacingExtra="8sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/infoOpen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed"
+        android:lineSpacingExtra="8sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/infoPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed"
+        android:lineSpacingExtra="8sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/infoWebsite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed"
+        android:lineSpacingExtra="8sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:typeface="serif" />
+
+</LinearLayout>

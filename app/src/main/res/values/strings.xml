@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SaultSarniaDestTourism</string>
+
+    <string-array name="ids">
+        <item>ChIJp5HYJU84Nk0RVLpDQQvyDaQ</item>
+        <item>ChIJ1X4jyMg5Nk0RdyQh4Ivqsak</item>
+    </string-array>
+    <integer-array name="ratings">
+        <item>45</item>
+        <item>30</item>
+    </integer-array>
+    <string-array name="shortDescs">
+        <item>Unique locally curated museum, with plenty of interactive fun for both children and adults.</item>
+        <item>A 35,000 square foot casino, catering to both sides of the border, just off the International Bridge.</item>
+    </string-array>
+    <string-array name="fullDescs">
+        <item>A very large hangar museum right on the beautiful shore of Sault Ste. Marie. Features many one of a kind planes from across generations.
+            Many planes are able to be entered and explored, making this destination a great spot for families. The museum also offers many limited time
+            exhibits and interactive movies.</item>
+        <item>The OLG Casino is owned by the provincial government, so it is always well kept and clean. On top of over 450 slots and 20 game tables, the casino also features a 100-seat restaurant and bar.
+            The casino caters to Americans as well, as it holds and on site currency exchange. Also, all winnings are tax free in Canada!</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="localeye">Local Flair</string>
+    <string name="details_contact"><![CDATA[Details & Contact]]></string>
+
+</resources>
